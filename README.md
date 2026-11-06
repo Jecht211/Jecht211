@@ -1,9 +1,9 @@
 ### Hi there, I'm Jeffrey 👋
 
-I am a Data Scientist and certified Molecular Biologist specializing in Exploratory Data Analysis (EDA), automated data pipelines, and protecting data integrity in high-stakes environments. My background allows me to bridge the gap between technical datasets and complex underlying systems, allowing me to map intuitive feature engineering and domain logic to predictive models.
+I am a Data Scientist and certified Molecular Biologist with a strong foundation in clinical data validation. Over six years of hands-on laboratory operations, I have leveraged my firsthand understanding of complex workflows to design and deploy new automated data tools. My background allows me to parse high-dimensional data with strong domain logic, ensuring models reflect accurate real-world systems.
 
 -  **Current Focus:** M.S. Candidate in Data Science at Eastern University (4.0 GPA)
--  **Background:** 6+ years managing laboratory data operations (Clinical & Public Health)
+-  **Background:** 5+ years performing all molecular diagnostic steps, leveraged my understanding of legacy lab workflows to design and deploy new automated data validation tools
 -  **Core Stack:** Python (Pandas), R (tidyverse), SQL, Tableau, Git
 
 ---
